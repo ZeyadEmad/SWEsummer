@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+}
+ h1{
+    color: #103D59;
+    font-family: "Great Vibes", cursive;
+    font-weight: normal;
+    margin-top: 20px;
+    text-align: left;
+    position: relative;
+    display: block;
+ }
+ p{
+    color: #7a7c7f;
+    font-size: 23px;
+	margin-left:15px;
+    font-family: "Libre Baskerville", serif;
+    line-height: 45px;
+    text-shadow: 0 1px 1px #fff;
+    position: relative;
+    display: block;
+    padding-bottom: 20px;
+}
+body {
+    margin-top:16px;
+    position:relative;
+ }

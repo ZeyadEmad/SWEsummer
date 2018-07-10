@@ -1,0 +1,108 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: whitesmoke;
+}
+table{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    top: 0px;
+}
+th{
+    font-family:Georgia;
+    color: #ffc505;
+    text-align: center;
+    line-height:50px;
+    background-color:#103D59;
+}
+td{
+    font-family:Palatino Linotype;
+    text-align: center;
+    line-height: 40px;
+    /* color: darkgrey; */
+}
+tr:nth-child(odd){
+    color: black;
+    background-color: white;
+}
+tr:nth-child(even){
+    color: whitesmoke;
+    background-color: #103D59;
+}
+#header{
+    font-size: 24px;
+    position: fixed;
+    top:50px;
+    left: 40%;
+    color:#103D59;
+    padding: 15px 32px;
+    border: 2px solid #ffc505 ;
+    border-radius: 5%;
+    font-family:Book Antiqua;
+    text-decoration: none;
+    font-weight:bold;
+}
+#header:hover{
+    cursor: pointer;
+    background-color: #ffc505;
+    transition-duration: 0.5s ;
+}
+.logo{
+    position:relative;
+    float: left;
+    top: 0px;
+}
+select{
+    font-weight: bold;
+    position: absolute;
+    top : 10% ;
+    margin-left: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 45%;
+    background-color: #ffc505;
+  	font-size:20px;
+  	font-weight:bold;
+  	border-radius:15px;
+    font-family:Palatino Linotype;
+}
+a{
+  text-decoration: none;
+}
+#dateFrom{
+  margin-left: 60%;
+  margin-top: 5%;
+  background-color: #873036;
+  color: white;
+  border-radius: 30px;
+  font-size: 120%;
+}
+#dateTo{
+  background-color: #873036;
+  color: white;
+  border-radius: 30px;
+  font-size: 120%;
+}
+#changeDate{
+  text-decoration:none;
+  background-color:#103D59;
+  color:white;
+	font-size:20px;
+	font-weight:bold;
+	border-radius:15px;
+  margin-top: 1%;
+  margin-left: 67%;
+  cursor: pointer;
+}
+#changeAccount{
+  text-decoration:none;
+  background-color:#103D59;
+  color:white;
+	font-size:20px;
+	font-weight:bold;
+	border-radius:15px;
+  margin-top: -3%;
+  cursor: pointer;
+}

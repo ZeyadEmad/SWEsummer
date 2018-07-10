@@ -1,0 +1,97 @@
+body{
+	/* background-color:#873036; */
+	background-color:#103D59;
+}
+button:hover{
+    cursor: pointer;
+		background-color: #103D59;
+}
+button{
+	background-color:#873036;
+	color:white;
+  padding: 23px 40px;
+  text-align: center;
+  font-size: 25px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-left:37.5%;
+	margin-right:25%;
+	margin-bottom:0%;
+  border-radius: 25px;
+	width:25%;
+}
+#logo{
+    width: 400;
+    height: 200;
+    float: left;
+}
+.positioning{
+    margin-top: 3%;
+}
+#loans{
+    margin-top: 7%;
+}
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.modal-content {
+	position:relative;
+  background-image:url("../img/loanOrAccount.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+	left:0;
+	top:25%;
+  width: 40%;
+	height:50%;
+}
+.butAcc{
+	position:absolute;
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	background-color:LightSlateGray ;
+	color:white;
+	margin-top:130px;
+	margin-left:50px;
+}
+.butLoan{
+	position:absolute;
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	background-color:LightSlateGray ;
+	color:white;
+	margin-top:130px;
+	margin-left:350px;
+}
+#newUsers{
+	margin-left: 24%;
+}
+#transactions{
+	margin-left: 52%;
+	margin-top: -4.7%;
+}
+#submitLoans{
+	margin-left: 10%;
+}
+.deposit{
+	margin-top: -4.7%;
+}
+#withdraw{
+	margin-left: 66%;
+	margin-top: -4.7%;
+}
+#create{
+		margin-left: 38%;
+}
+#signout{
+		width: 20%;
+		margin-left: 40.5%;
+}

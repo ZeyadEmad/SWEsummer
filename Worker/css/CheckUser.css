@@ -1,0 +1,24 @@
+body{
+	/* background-color:#873036; */
+	background-color:#103D59;
+}
+button{
+	background-color:#873036;
+	color:white;
+  padding: 23px 40px;
+  text-align: center;
+  font-size: 25px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-left:37.5%;
+	margin-right:25%;
+	margin-bottom:0%;
+  border-radius: 25px;
+	width:25%;
+}
+button:hover{
+	cursor: pointer;
+	background-color:#103D59;
+}
+.positioning{
+    margin-top: 7%;
+}

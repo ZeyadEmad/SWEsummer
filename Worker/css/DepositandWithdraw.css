@@ -1,0 +1,67 @@
+body{
+	background-color:#103D59;
+	}
+	
+	.Word
+	{
+		font-family: 'Open Sans', sans-serif;
+		position:absolute;
+		color:white;
+		font-size: 30px;
+		left:46%;
+		top:10%;
+		
+		
+	}
+	
+
+.Border
+{
+	
+	
+	position:absolute;
+	background-color:Gainsboro;
+	width:55%;
+	height:70%;
+	top:20%;
+	left:25%;
+	
+}
+
+.AccountNum
+{
+	font-family: 'Open Sans', sans-serif;
+	position:relative;
+	left:5%;
+}
+
+
+.AccountNumId
+{
+position:relative;
+left:2%;
+border-radius:5pt;	
+height:6%;
+width:87%;
+}
+.AmountId
+{
+	position:relative;
+left:2%;
+border-radius:5pt;
+height:6%;	
+width:87%;
+}
+
+.sub
+{
+position:relative;
+left:43%;
+border-radius:5pt;
+background-color:DodgerBlue ;
+color:White;
+border-color:yellow;
+font-size:15pt;
+
+	
+}

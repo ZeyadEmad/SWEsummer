@@ -1,0 +1,74 @@
+body
+{
+background-color:khaki;
+background-image: url("../img/WorkerSignin.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+   
+
+}
+
+
+
+
+
+.modal-content {
+	
+	color:white;
+	display:block;
+	text-align:center;	
+    position: absolute;
+    top: 30%;
+	left: 25%;
+    background-color:white;
+    width:50%;
+	height:30%;
+	background-color: rgba(0,0,0,0.6);
+	border-radius:10px;
+ 
+}
+
+.modal-content img{
+position: absolute;
+top :1%;
+left:5%;
+}
+input{
+	
+	border-radius: 5px;
+}
+.signup
+{
+	color:white;
+	position:relative;
+	left:32%;
+	
+}
+.signup a
+{
+	color:white;
+	position:relative;
+	left:0%;
+	text-decoration:none;
+	
+}
+.signup a:hover
+{
+	color:black;
+	background-color:white;
+	position:relative;
+	left:0%;
+	text-decoration:none;
+	
+}
+.signin
+{
+	position:fixed;
+	text-decoration:none;
+	color:black;
+	background-color:PapayaWhip;
+	left:45%;
+	 width:10%;
+	 border-radius: 20px;
+	
+}

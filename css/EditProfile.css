@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+}
+#edata{
+	margin-left:10px;
+	margin-top:30px;
+	text-align:center-left;
+	color:#103D59;
+	font-size:25px;
+	font-weight:bold;
+}
+.b3{
+	margin-top:20px;
+	margin-left:20px;
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+	background-color:#103D59;
+	border-radius:10px;
+    cursor: pointer;
+}
+#logoposition{
+    margin-left: 42%;
+}
+#table{
+    border: 15;
+    width: 100%;
+}
+#email{
+    background-color: yellow;
+    width: 40%;
+}
+#submitbtn{
+    margin-top:5%;
+	margin-left:20%;
+	font-size:30px;
+	font-weight:bold;
+	color:white;
+	background-color:#103D59;
+	border-radius:10px;
+    cursor: pointer;
+    width: 60%;
+}

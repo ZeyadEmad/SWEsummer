@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+}
+#title{
+	color:white;
+	background-color:#103D59;
+}
+#x{
+	margin-left:45%;
+}
+.tableback{
+	
+}
+#logoposition{
+    margin-left: 42%;
+}
+th
+{
+	background-color:#103D59;
+	color:white;
+	font-size:20px;
+	text-align:center;
+	
+}
+
+tr:nth-child(even){
+	background-color:#103D59;
+	color:white;
+	font-size:20px;
+	text-align:center;}
+tr:nth-child(odd) {
+	background-color:White;
+	color:black;
+	font-size:20px;
+	text-align:center;
+	}

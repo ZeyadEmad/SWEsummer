@@ -1,0 +1,52 @@
+body{
+  margin: auto;
+  background-color:#103D59;
+}
+#header{
+	margin-left:20px;
+	color:white;
+	text-align:center;
+  background-color: #873036;
+  margin-left: 0%;
+}
+.data{
+	color:white;
+}
+table{
+  width: 100%;
+  border: 10px;
+  /* background-color: whitesmoke; */
+}
+v{
+	font-size:25px;
+	font-weight:bold;
+}
+z{
+	font-size:22px;
+}
+#logoanchor{
+	width: 300px;
+    height: 150px;
+}
+th, td {
+    padding: 8px;
+	background-color:#103D59;
+}
+button{
+  margin-top:100px;
+	font-weight:bold;
+	border-radius:10px;
+	font-size:25px;
+	color:white;
+  margin-left: 20%;
+}
+#accept{
+	background-color:green;
+}
+#reject{
+	background-color:red;
+  margin-left: 35%;
+}
+#logoposition{
+    margin-left: 42%;
+}

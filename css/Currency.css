@@ -1,0 +1,65 @@
+body
+{
+	background-image:url("../img/stock_exchange.jpeg");
+	background-repeat:no-repeat;
+	background-size: cover;	
+    width: 100%;
+	overflow:auto;
+}
+
+#Dropbox-first
+{
+	position:relative;
+	text-align:center;
+	top:42px;
+	left:400px;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+}
+.to
+{
+	position:relative;
+	top:20px;
+	left:650px;
+	color:white;
+	border:10px 10px;
+	
+}
+
+#Dropbox-second
+{
+    position:relative;
+	text-align:center;
+	top:0%;
+	left:57%;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+}
+.screen
+{
+	position:relative;
+	top:60px;
+	left:23%;
+}
+
+.Value
+{
+	position:relative;
+	font-size:50pt;
+	color:white;
+	top:-200px;
+	left:41%;
+}
+
+.submit input[type=submit]
+{
+	position:relative;
+	background-color:GreenYellow ;
+	top:30px;
+	left:45%;
+	width:100px;
+	height:30px;
+	border-radius:5px;
+}
