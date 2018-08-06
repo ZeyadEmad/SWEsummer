@@ -122,5 +122,15 @@
         				   ?>
               </tbody>
         </table>
+        
+        <button onclick="myFunction()">Print this page</button>
+
+        <script>
+            function myFunction() 
+            {
+                window.print();
+            }
+        </script>
+
     </body>
 </html>

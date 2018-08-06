@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{C:\Users\Sherif Sultan\Desktop}}
+
+\title{Software Requirement Specification Document}
+\author{Sherif Mohamed, Ziad Emad, Pola Moheb, Ahmed ElMorabea }
+\date{July 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\subsection{Purpose of this document.}
+In this document we're stating the main (non)functional requirements as well as targeting our main audience; Prof. Passant ElKafrawy and bank owners
+
+\subsection{Scope of this document}
+As per this document, functionalities had been elicited by our customer, we've agreed on developing the web application upon his requirements
+stating a software system that provides support for the development, repair, and enhancement of software, and for the management and control of these activities. Our system requires a personal computer having any internet-browser for online operations or a software to launch the local host database. This application will be held by July, 2018 and will costs zero pounds; since its done for academic purpose and the developers who worked on this projects Sherif Mohamed, Ziad Emad, Pola Moheb, Ahmed ElMorabeaa.
+
+\subsection{Overview}
+This bank web application will get rid of the excess paper work usage on the bank employees side and the clients of another side, as it will organize and make it easier for the employees to enter secured data without losing it and and the client will have an easier way to register their account safely 
+
+
+\subsection{Business Context}
+As per the Bank web application, mainly will harshly decrease the amount of time preparing the required data. It will eliminate the existent of any paper-work as everything will be automatically stored on the database. It will allow the employee and the user to retrieve and deal with the data of their own with the minimum effort and time.
+
+\section{General Description}
+\subsection{Product Functions}
+This software contains different kind of modules; Managing user accounts, transactions, Bank statement, Currency convert-ions(API), Loans, Auto complete, Deposit and withdraw.
+
+\subsection{Similar System Information}
+\includegraphics{a4787.png}
+
+\subsection{Uses Characteristics}
+This system will be used by the bank management department detailed in employees; The user of this system should have a 4 hour training to be able to deal smoothly with the system as well as having basic computer knowledge and English commands.
+\subsection{User Problem Statement}
+The main essential problem is getting rid of excess paper work, and lost time.
+
+\subsection{User Objectives}
+The user may require a bank statement from the bank showing him what happened during the last X transactions, how much money he asked from the loan and how many down payments left to pay the loan.
+Be able to perform transactions on premise and see the conversion rates of currencies,
+Easily locate the bank on any maps application, See frequently asked questions on the FAQ page to fulfill most if not all the customer's inquiries.
+See a brief summary about the bank's history in a neat about us page and then some.
+
+
+\subsection{General Constrains}
+The constitution should have a modern computer to process the system, as well as a speedy compatible devices for fully handled system.
+
+\section{Functional Requirements}
+
+\end{document}
